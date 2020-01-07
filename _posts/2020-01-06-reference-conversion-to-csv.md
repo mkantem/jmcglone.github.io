@@ -7,7 +7,7 @@ Description: This post describes a step by step method to export Mendeley refere
 
 ---
 
-If I may quote **Therese Fowler** "Some rules are nothing but old habits but that people are afraid to change". 
+If I may quote **Therese Fowler** "Some rules are nothing but old habits that people are afraid to change". 
 I recently had to break one of my habits which is using LateX for my writing activities. For the need of a paper, I have been working on, 
 I used Ms-Word for the entire paper and I came across an issue. In fact, as the article was a systematic mapping, and for the need for data analysis, I needed to export my references into a CSV file to be used in Ms Excel. 
 
