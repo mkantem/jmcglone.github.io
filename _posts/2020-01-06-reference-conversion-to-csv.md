@@ -23,7 +23,7 @@ In Mendeley Desktop
  
  ### Step 2: Using JabRef
  
- **LaTeX** users might be familiar with this tool but if you are not, you can read about it and download it free of charge from [their website](https://www.jabref.org/).
+ LaTeX users might be familiar with this tool but if you are not, you can read about it and download it free of charge from [their website](https://www.jabref.org/).
  Once you have your BibTex file, you have to open it in JabRef
  * File --- >  Open database
  * And select the BibTex file
