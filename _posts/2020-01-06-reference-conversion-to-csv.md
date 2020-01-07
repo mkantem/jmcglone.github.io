@@ -28,12 +28,12 @@ In Mendeley Desktop
  * File --- >  Open database
  * And select the BibTex file
  
- ###  Step 3: JabRef to CSV
+<h3>Step 3: JabRef to CSV</h3>
  
   * File --- >  Export
   * Choose CSV file type (*.csv)
  
- ###  Step 4: Import your CSV file to Excel
+ <h3>Step 4: Import your CSV file to Excel</h3>
  
  * Open a new Excel document
  * Go to data tab and click "From Text"
