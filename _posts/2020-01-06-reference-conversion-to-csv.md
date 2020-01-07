@@ -14,25 +14,25 @@ It was new because I have been used to deal with BibTex databases only. From my 
 
 I assume that we all use a reference manager ;) I personnally use Mendeley therefore the steps might be different if you use another one. 
 
-## Step 1: Export from Mendeley to BibTex 
+### Step 1: Export from Mendeley to BibTex 
 
 In Mendeley Desktop 
  * File --- >  Export
  * Save as type --- > BibTex (*.bib) 
  
- ## Step 2: Using JabRef
+ ### Step 2: Using JabRef
  
  **LaTeX** users might be familiar with this tool but if you are not, you can read about it and download it free of charge from [their website](https://www.jabref.org/).
  Once you have your BibTex file, you have to open it in JabRef
  * File --- >  Open database
  * And select the BibTex file
  
- ## Step 3: JabRef to CSV
+ ### Step 3: JabRef to CSV
  
   * File --- >  Export
   * Choose CSV file type (*.csv)
  
- ## Step 4: Import your csv file to Excel
+ ### Step 4: Import your csv file to Excel
  
  * Open a new Excel document
  * Go to data tab and click "From Text"
