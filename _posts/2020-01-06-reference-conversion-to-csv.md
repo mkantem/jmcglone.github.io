@@ -1,6 +1,6 @@
 ---
 layout: post
-title: References exporting guide from Mendeley to Ms Excel!
+title: References exporting guide from Mendeley to a CSV file!
 date: 2020-01-06
 tags: writing research bibliography 
 Description: This post describes a step by step method to export Mendeley references into a CSV file for use in Ms Excel.
