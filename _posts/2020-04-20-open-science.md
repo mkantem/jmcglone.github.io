@@ -14,17 +14,17 @@ découverte et créer un système de connaissances plus équitable et ouvert à 
 
 L'open access revolutiona le monde de la science en recentrant le debat sur les productions et sur un point crucial,
 les finances: accès libre et sans coût, pouvoir diffuser ses travaux sans ou à moindre coût, reduction de l'enrichissement 
-frauduleuse et non éthique de certains organismes car n'ayant plus main mise sur les publications scientifiques.
+frauduleux et non éthique de certains organismes car n'ayant plus main mise sur les publications scientifiques.
 
 Tout le problème réside dans  le financement hélas.  
 
 Partant du principe qu'aucune charge financière ne devrait se poser sur les utilisateurs finaux (lecteurs) pour 
 accéder aux publications - Ces frais peuvent être couverts par l'auteur, l'institution de l'auteur ou le bailleur de fonds. 
 
-Ces deux derniers i.e auteur, institution, à leurs tours devront être financer par gouvernements locaux en priorité, 
+Ces deux derniers i.e auteur, institution, à leurs tours devront être financés par gouvernements locaux en priorité, 
 les bailleurs de fonds,  et organismes internationaux. 
 
 Force est de constater que les gouvernements locaux n'aident pas assez dans le financement de la recherche, des chercheurs/universités 
-surtout en afrique subsaharienne selon mon experience
+surtout en Afrique subsaharienne selon mon experience
 
 Une organisation transparente s'impose!
