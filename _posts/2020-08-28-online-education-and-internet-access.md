@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Online education and internet access?
-date: 2020-04-20
+date: 2020-08-28
 tags: writing online education  
 Description: Thoughts regarding online education
 ---
