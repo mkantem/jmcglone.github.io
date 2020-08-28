@@ -17,3 +17,17 @@ When we talk about online education, the attribute that stands out from the lite
 According to the World Bank organization, to ensure positive economic growth and development that benefits all citizens, Africa must make big strides in digital literacy. In Sub Saharan Africa, 230 million jobs will require digital skills by 2030, according to the Digital Skills in Sub-Saharan Africa report that IFC recently published (WorldBank, 2020). Online education can play an important role in that direction. Digital literacy is a pre-requirement in engaging in online Education. Although that is an important factor, the issue faced by most African institutions and students is online access. How to make internet access easier for learners and instructors? 
 The lack of online access either due to financial causes or logistics might exclude participants from the online class, or preventing institutions to deliver teaching materials. This is a major problem for all online programs that are reliant on Internet access (Fedynich, 2007). For instance, according to world internet statistics, in Ivory Coast, only 45.3 % of the population has access to the internet.  Quality transmission is another issue of the telecommunications system and other resources required to successfully transmit information. 
 A starting point to make online education more accessible and effective could be a study that investigates ways to improve internet access in countries in development based on a causal model that will take into account quality transmission. 
+
+References
+
+Fedynich, L. V. (2007). Teaching beyond the classroom walls: The pros and cons of cyber learning. http://www.aabri.com/copyright.html.
+
+Kumar, D. (2010). Pros and Cons of Online Education.
+
+Stern, J. (n.d.). Introduction to Online Teaching and Learning. Retrieved July 8, 2020, from http://www.sloan-c.org/resources/index.asp
+
+Volery, T., & Volery Professor at Lyon, T. E. (2000). Critical success factors in online education. ARTICLE in INTERNATIONAL JOURNAL OF EDUCATIONAL MANAGEMENT. https://doi.org/10.1108/09513540010344731 
+
+WorldBank. (2020). Africa’s future is bright—and digital. https://blogs.worldbank.org/digital-development/africas-future-bright-and-digital
+
+
