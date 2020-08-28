@@ -13,11 +13,11 @@ Institutions and governments have put in numerous efforts for online Education t
 Online Education refers to education that takes place over the internet (Stern, n.d.). It is a type of distance learning that happens through an interconnected network via a specific platform. The online method of education can be a highly effective alternative method of education for the students or persons that are self-disciplined, matured and motivated, well organized and having a high degree of time management skills (Kumar, 2010). Distance education offers an added value to the learners as it is, in most cases self-paced thus allowing the learner to engage in other activities *(if necessary)* while studying. 
 
 When we talk about online education, the attribute that stands out from the literature is the convenience that goes with it. In fact, it is argued that convenience is the foremost advantage of online Education (Fedynich, 2007).  This convenience is in relation to many factors, including but not limited to:
-     - No commuting or travel time to campus. For example, someone from the republic of Mali can effectively participate in a study program at the Virtual University of Ivory Coast.
-     - No geographic location constraint in selecting the learning option(s)
-     - Virtual discussion with instructors 
-     - Access to resources 
-     -Cost-effective for both students and Institutions 
+     * No commuting or travel time to campus. For example, someone from the republic of Mali can effectively participate in a study program at the Virtual University of Ivory Coast.
+     * No geographic location constraint in selecting the learning option(s)
+     * Virtual discussion with instructors 
+     * Access to resources 
+     * Cost-effective for both students and Institutions 
      
 According to the World Bank organization, to ensure positive economic growth and development that benefits all citizens, Africa must make big strides in digital literacy. In Sub Saharan Africa, 230 million jobs will require digital skills by 2030, according to the Digital Skills in Sub-Saharan Africa report that IFC recently published (WorldBank, 2020).
 
@@ -29,7 +29,7 @@ A starting point to make online education more accessible and effective could be
 
 What are your thoughts??
 
-##References
+**References**
 
 Fedynich, L. V. (2007). Teaching beyond the classroom walls: The pros and cons of cyber learning. http://www.aabri.com/copyright.html.
 
