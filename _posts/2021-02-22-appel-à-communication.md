@@ -23,3 +23,5 @@ Tous les articles doivent suivre le style de citation APA. Pour plus d'informati
 visiter <a href="https://apastyle.apa.org/style-grammar-guidelines/paper-format">https://apastyle.apa.org/style-grammar-guidelines/paper-format</a> . Au minimum, les articles doivent avoir les sections suivantes: introduction, méthodes, résultats et discussion, conclusion. Les articles doivent être soumis en anglais ou en français. 
 Veuillez télécharger notre canevas (English or French). Alors que nous cherchons à combler le fossé dans la production de recherche ICT4D en Afrique francophone, 
 chaque article doit avoir un résumé en anglais et en français.
+
+<a href="https://afridic.ord">Portail officiel du Colloque</a>
