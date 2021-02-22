@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Appel à communication - AFRIDIC 2021?
-date: 2020-08-28
+date: 2021-02-22
 tags: writing research   
 Description: AFRDIC 2021 - Colloque International (afridic.org)
 ---
