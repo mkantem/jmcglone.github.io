@@ -17,10 +17,9 @@ Tous les articles doivent être originaux et ne pas être soumis simultanément 
 
 Les auteurs potentiels sont invités à soumettre des articles rédigés en anglais ou en français et ne dépassant pas 12 pages au total. 
 Les auteurs doivent également soumettre une page de couverture distincte contenant les coordonnées des auteurs et le titre de l'article. 
-Les articles doivent être soumis à https://easychair.org/conferences/?conf=afridic2021
+Les articles doivent être soumis à <a href="https://easychair.org/conferences/?conf=afridic2021">https://easychair.org/conferences/?conf=afridic2021</a> 
 
 Tous les articles doivent suivre le style de citation APA. Pour plus d'informations sur le style APA, veuillez 
-visiter https://apastyle.apa.org/style-grammar-guidelines/paper-format. Au minimum, les articles doivent avoir les 
-titres suivants: introduction, méthodes, résultats et discussion, conclusion. Les articles doivent être soumis en anglais ou en français. 
+visiter <a href="https://apastyle.apa.org/style-grammar-guidelines/paper-format">https://apastyle.apa.org/style-grammar-guidelines/paper-format</a> . Au minimum, les articles doivent avoir les sections suivantes: introduction, méthodes, résultats et discussion, conclusion. Les articles doivent être soumis en anglais ou en français. 
 Veuillez télécharger notre canevas (English or French). Alors que nous cherchons à combler le fossé dans la production de recherche ICT4D en Afrique francophone, 
 chaque article doit avoir un résumé en anglais et en français.
