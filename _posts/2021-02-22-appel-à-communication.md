@@ -26,6 +26,6 @@ Veuillez télécharger le <a href="https://afridic.org/downloads/">canevas</a> (
 L'AFRIDIC cherche à combler le fossé dans la production de recherche ICT4D en Afrique francophone, chaque article doit avoir un résumé en anglais et en français.
 
 
-<a href="https://afridic.ord">Portail officiel du Colloque</a>
+<a href="https://afridic.org">Portail officiel du Colloque</a>
 
 
