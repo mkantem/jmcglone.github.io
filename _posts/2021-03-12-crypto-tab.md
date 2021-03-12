@@ -6,5 +6,4 @@ tags: Bitcoin
 Description: CryptoTab
 ---
 
-
-<iframe src="https://get.cryptobrowser.site/pb/1/20269872/?t=simple,text,pro,mobile" style="width: 120px; height: 600px" frameborder="no"></iframe>
+<iframe src="https://get.cryptobrowser.site/pb/11/20269872/?t=simple,text,pro,mobile" style="width: 768px; height: 1024px" frameborder="no"></iframe>
