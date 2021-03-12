@@ -1,8 +1,8 @@
 ---
 layout: post
-title: BTC
+title: Bitcoin mining with CryptoTab
 date: 2021-03-12
-tags: Bitcoin   
+tags: Bitcoin    
 Description: CryptoTab
 ---
 
